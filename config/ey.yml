@@ -26,3 +26,6 @@ environments:
   engineyardsocks:
     migrate: true
     migration_command: rake db:migrate
+  engineyardsocks4:
+    migrate: true
+    migration_command: rake db:migrate
